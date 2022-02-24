@@ -8,4 +8,4 @@ En estos programas se usarán las librerías math, matplotlib, numpy, scipy, sys
 
 - "Determinando experimentalmente la constante de Rydberg con espectroscopía óptica de la serie de Balmer del hidrógeno".
 ---
-Información adicional sobre licencias y usos de los códigos del repositorio: [Licencia](https://github.com/Lucas-Nieto/Useful_tools/blob/main/LICENSE)
+Información adicional sobre licencias y usos de los códigos del repositorio: [Licencia](https://github.com/Lucas-Nieto/Laboratorio_Fisica_Moderna/blob/main/LICENSE)
