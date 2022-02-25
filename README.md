@@ -16,3 +16,8 @@ En estos programas se usarán las librerías math, matplotlib, numpy, scipy, sys
 ## Licencia
 Este repositorio es software libre con fines educativos.
 Información adicional sobre el uso que se le puede dar al código de este repositorio: [Licencia](https://github.com/Lucas-Nieto/Laboratorio_Fisica_Moderna/blob/main/LICENSE)
+
+## Para referenciar este repositorio
+
+DOI: https://doi.org/https://doi.org/10.5281/zenodo.6268390
+Más sobre citas en el archivo sobre [citaciones](https://github.com/Lucas-Nieto/Laboratorio_Fisica_Moderna/blob/main/citation.cff) o en el widget de citaciones APA o BibTex.
