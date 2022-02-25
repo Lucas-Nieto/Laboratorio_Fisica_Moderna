@@ -23,3 +23,7 @@ Más sobre citas en el archivo sobre [citaciones](https://github.com/Lucas-Nieto
 
 
 DOI: https://doi.org/https://doi.org/10.5281/zenodo.6268390
+
+### Contacto
+Afiliación: Universidad de los Andes  
+Correo Institucional: l.nietom@uniandes.edu.co
