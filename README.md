@@ -1,12 +1,14 @@
 # Laboratorio de Física Moderna
-Last update: 24/02/2022
+Last update: 26/02/2022
 
 ## Descripción:
 En este repositorio se encuentran los datos crudos de los experimentos del curso Laboratorio de Física Moderna del semestre 2022-10, y el código Python utilizado para procesarlos.
-En estos programas se usarán las librerías math, matplotlib, numpy, scipy, system y time.
 
 ## Prerequisitos:
 - Python 3.8.8
+- Modules: math, matplotlib.pyplot, numpy, scipy.
+
+Los módulos necesarios se pueden instalar en la terminal de python por medio de [pip](https://github.com/pypa/pip/blob/main/README.rst)
 
 ## En este repositorio:
 
@@ -25,5 +27,6 @@ Más sobre citas en el archivo sobre [citaciones](https://github.com/Lucas-Nieto
 DOI: https://doi.org/https://doi.org/10.5281/zenodo.6268390
 
 ### Contacto
+Lucas Ramón Nieto Martínez, estudiante de Física.
 Afiliación: Universidad de los Andes  
 Correo Institucional: l.nietom@uniandes.edu.co
