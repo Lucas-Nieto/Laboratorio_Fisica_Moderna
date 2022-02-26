@@ -15,7 +15,7 @@ En este repositorio se encuentran los datos crudos de los experimentos del curso
 
 ## Licencia
 Este repositorio contiene datasets y software libre con fines educativos.
-Información adicional sobre el uso que se le puede dar al código de este repositorio en [Licencia](https://github.com/Lucas-Nieto/Laboratorio_Fisica_Moderna/blob/main/LICENSE)
+Información adicional sobre el uso que se le puede dar al código de este repositorio en [licencia](https://github.com/Lucas-Nieto/Laboratorio_Fisica_Moderna/blob/main/LICENSE).
 
 ## Para referenciar este repositorio
 
