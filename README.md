@@ -6,9 +6,7 @@ En este repositorio se encuentran los datos crudos de los experimentos del curso
 
 ## Prerequisitos:
 - Python 3.8.8
-- Modules: math, matplotlib.pyplot, numpy, scipy.
-
-Los módulos necesarios se pueden instalar en la terminal de python por medio de [pip](https://github.com/pypa/pip/blob/main/README.rst)
+- Modules: math, [matplotlib.pyplot](https://matplotlib.org/stable/users/getting_started/), [numpy](https://numpy.org/install/), [scipy](https://scipy.org/install/).
 
 ## En este repositorio:
 
