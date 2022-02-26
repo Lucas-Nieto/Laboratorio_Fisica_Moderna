@@ -1,9 +1,15 @@
 cff-version: 1.0.0
-message: "If you use this repo, please cite it as below."
+message: "If you use code from this repo, please cite it as below."
 authors:
   - family-names: Nieto
     given-names: Lucas
 title: "Laboratorio_Fisica_Moderna"
+abstract: "Código Python implementado en los experimentos del curso: Laboratorio de Física Moderna 2022-10 de la Universidad de los Andes."
 version: 1.0.0
-doi: https://doi.org/10.5281/zenodo.6268390
+identifiers:
+  - description: This is the collection of archived snapshots of all versions of My Research Software
+    type: doi
+    value: "https://doi.org/10.5281/zenodo.6268390"
+license: MIT
 date-released: 2022-02-11
+repository-code: https://github.com/Lucas-Nieto/Laboratorio_Fisica_Moderna
