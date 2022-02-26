@@ -10,7 +10,8 @@ En este repositorio se encuentran los datos crudos de los experimentos del curso
 
 ## En este repositorio:
 
-- "Experimento 1: Determinando experimentalmente la constante de Rydberg con espectroscopía óptica de la serie de Balmer del hidrógeno".
+- Experimento 1: "Determinando experimentalmente la constante de Rydberg con espectroscopía óptica de la serie de Balmer del hidrógeno".
+- Experimento 2: "/"
 ---
 
 ## Licencia
