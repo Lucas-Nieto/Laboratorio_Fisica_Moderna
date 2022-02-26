@@ -10,6 +10,6 @@ identifiers:
   - description: Archived in Zenodo, traceable via Zenodo.
     type: doi
     value: "https://doi.org/10.5281/zenodo.6268390"
-license: MIT
+license: MIT License
 date-released: 2022-02-11
 repository-code: https://github.com/Lucas-Nieto/Laboratorio_Fisica_Moderna
