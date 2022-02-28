@@ -1,5 +1,5 @@
 # Laboratorio de Física Moderna
-`r format(Sys.time(), '%d %B, %Y')`
+Last updated: Mon Feb 28 17:20 2022
 
 ## Descripción:
 En este repositorio se encuentran los datos crudos de los experimentos del curso Laboratorio de Física Moderna del semestre 2022-10, y el código Python utilizado para procesarlos.
