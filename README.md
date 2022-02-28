@@ -24,6 +24,6 @@ Consultar el widget de citaciones (APA o BibTex), o el archivo sobre [citaciones
 DOI: https://doi.org/https://doi.org/10.5281/zenodo.6268390
 
 ### Contacto
-Lucas Ramón Nieto Martínez, estudiante de Física.
 Afiliación: Universidad de los Andes  
+Lucas Ramón Nieto Martínez, estudiante de Física.  
 Correo Institucional: l.nietom@uniandes.edu.co
