@@ -19,7 +19,7 @@ Información adicional sobre el uso que se le puede dar al contenido de este rep
 
 ## Para referenciar este repositorio
 
-Consultar el widget de citaciones (APA o BibTex), o el archivo sobre [citaciones](https://github.com/Lucas-Nieto/Laboratorio_Fisica_Moderna/blob/main/citation.cff).
+Consultar el widget de citaciones (APA o BibTex), o el archivo sobre [citaciones](https://github.com/Lucas-Nieto/Laboratorio_Fisica_Moderna/blob/main/CITATION.cff).
 
 DOI: https://doi.org/https://doi.org/10.5281/zenodo.6268390
 
