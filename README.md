@@ -1,5 +1,5 @@
 # Laboratorio de Física Moderna
-Last updated: 28/02/2022
+Last updated: 02/03/2022
 
 ## Descripción:
 En este repositorio se encuentran los datos crudos de los experimentos del curso Laboratorio de Física Moderna del semestre 2022-10, y el código Python utilizado para procesarlos.
@@ -11,7 +11,7 @@ En este repositorio se encuentran los datos crudos de los experimentos del curso
 ## En este repositorio:
 
 - Experimento 1: "Determinando experimentalmente la constante de Rydberg con espectroscopía óptica de la serie de Balmer del hidrógeno".
-- Experimento 2: "/"
+- Experimento 2: "Calculando la constante de Planck a partir del efecto fotoeléctrico".
 
 ## Licencia
 Este repositorio contiene datasets y software libre con fines educativos.
